@@ -1,0 +1,1 @@
+The sum of punishment numbers upto 37 is 1478
