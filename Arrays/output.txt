@@ -1,2 +1,1 @@
-1 2 3 5 8 
-9 10 13 15 
+Min operations to make the array unique is 6
