@@ -1,1 +1,1 @@
-The Ugly number for 10 th number is 12
+The total path : 3
