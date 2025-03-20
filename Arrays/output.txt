@@ -1,1 +1,1 @@
-Min operations to make the array unique is 6
+[false]

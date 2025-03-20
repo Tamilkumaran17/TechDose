@@ -91,6 +91,7 @@ bool isValid(const std::vector<std::vector<int>>& adj, int n) {
             if (visit.count(neighbor)) {
                 return false;
             }
+            
             visit.insert(neighbor);
             q.push(neighbor);
         }
