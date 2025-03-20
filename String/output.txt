@@ -1,1 +1,1 @@
-Find Unique Binary String 000
+The Lexicographically Smallest String written in the paper is : abc
