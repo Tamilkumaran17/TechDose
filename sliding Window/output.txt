@@ -1,1 +1,1 @@
-3
+ The Binary subarray with sum equal to goal 0 is : || 15 ||
