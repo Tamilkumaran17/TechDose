@@ -41,7 +41,7 @@ void solve()
     cout<<" The Binary subarray with sum equal to goal "<< goal << " is : || " << fun(goal) - fun(goal -1) << " ||" <<endl;
 
 
-    
+
 
 
    
