@@ -1,1 +1,1 @@
-the smallest possible integer after removing k digits from num 1219
+6
