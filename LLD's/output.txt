@@ -1,0 +1,17 @@
+Enter book titles (type 'exit' to stop):
+Books in library : 
+- The war of legends
+- Game of throns
+- Lord of the rings
+- Fifty shades of gray
+- Game of throns
+
+Enter the book title to issue : Failed in process
+After issued the books
+Books in library : 
+- The war of legends
+- Game of throns
+- Lord of the rings
+- Fifty shades of gray
+- Game of throns
+
