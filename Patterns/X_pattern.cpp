@@ -14,8 +14,7 @@ int main() {
     freopen("output.txt","w",stdout);
     #endif
     
-    string s;
-    cin>>s;
+    string s="PROGRAM";
     
     int n=s.size();
     

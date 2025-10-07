@@ -16,7 +16,6 @@ void dfs(vector<int>&arr, int idx, int tar, int currsum, vector<int>&curr, vecto
     curr.push_back(arr[idx]);
     dfs(arr, idx+1, tar, currsum+arr[idx], curr,ans,k);
     curr.pop_back();
-
     dfs(arr, idx+1, tar, currsum,curr,ans,k);
 }
 
